@@ -1,0 +1,5 @@
+smtpserver_host=smtp.gmail.com
+smtpserver_port=465
+username=apizomato.sid
+password=sid@12345
+from_email=apizomato.sid@gmail.com
